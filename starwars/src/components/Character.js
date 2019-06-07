@@ -10,7 +10,9 @@ const Character = props => {
       <p> {props.Character.gender}</p>
       <h1>Hair Color:</h1>
       <p> {props.Character.hair_color}</p>
+     
     </div>
+
   );
 };
 
